@@ -1,0 +1,13 @@
+{
+    "AZURE_OPENAI_ENDPOINT": "https://tst123451307193883.openai.azure.com/",
+    "AZURE_OPENAI_APIVERSION": "2025-01-01-preview",
+    "CHATGPT_MODEL": "gpt-4o-mini",
+    "PATHS": {
+        "DOWNLOAD": "downloads",
+        "AUDIO": "audios",
+        "TRANSCRIPT": "transcripts",
+        "REPORTS": "reports",
+        "MENTOR_ORIGINALS": "downloads/mentor_materials",
+        "MENTOR_TRANSCRIPTS": "transcripts/mentor_materials"
+    }
+}

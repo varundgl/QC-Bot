@@ -1,0 +1,37 @@
+1a: [✅] All planned topics and subtopics are mentioned and explained.
+1b: [✅] Concepts are introduced in a structured, progressive order.
+1c: [✅] All statements are technically correct without conceptual inaccuracies.
+1d: [✅] Relevant examples are provided to clarify complex concepts.
+
+2a: [N/A] - No code walkthrough
+2b: [N/A] - No code walkthrough
+2c: [N/A] - No code walkthrough
+2d: [N/A] - No code walkthrough
+2e: [N/A] - No code walkthrough
+
+3a: [✅] Speech is coherent and paced appropriately.
+3b: [❌] There are several instances of filler words like "uh" and "OK" that disrupt the flow.
+3c: [✅] Technical terms are pronounced clearly.
+3d: [✅] Language is formal, academic, and respectful.
+3e: [✅] No inappropriate or biased statements are present.
+
+4a: [✅] Spoken content follows the slide sequence.
+
+5a: [✅] There are prompts for learners to engage with the content.
+5b: [✅] Rhetorical questions are included to engage learners.
+5c: [✅] Encouragement for questions is present.
+
+6a: [✅] The session starts with a clear introduction setting context.
+6b: [✅] Clear transitions between sections are used.
+
+7a: [✅] Motivational language is used throughout the session.
+7b: [✅] Language is inclusive and gender-neutral.
+
+8a: [✅] Actual pacing matches mentioned time estimates.
+
+What Went Wrong:
+- The use of filler words detracted from the overall clarity of the speech.
+
+How to Improve:
+- Reduce the use of filler words to enhance speech clarity.
+- Practice pacing to ensure a smoother delivery without interruptions.
