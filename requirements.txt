@@ -1,0 +1,8 @@
+playwright
+azure-cognitiveservices-speech
+openai
+moviepy
+python-pptx
+nbformat
+pandas
+python-dotenv
