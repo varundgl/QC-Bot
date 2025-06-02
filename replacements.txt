@@ -1,2 +1,0 @@
-sk-
-# This will replace all secrets that start with sk- (like OpenAI keys)
