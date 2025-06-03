@@ -21,7 +21,7 @@ async def main():
         
         # Step 1: Process URL
         logging.info("Starting video processing...")
-        await main_flow.process_url("https://greatlearningcontent.app.box.com/s/wvtd8lk78oufmsvwbdnbu15zgj8i54dg")
+        await main_flow.process_url("https://greatlearningcontent.app.box.com/s/i6zeycc9pch4n0x27bv2rhum23rh1i8q")
         
         # Step 2: Process mentor materials
         mentor_dir = "mentor files"  # UPDATE THIS PATH

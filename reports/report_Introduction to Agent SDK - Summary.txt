@@ -1,7 +1,7 @@
 1a: [✅] All planned topics and subtopics are mentioned and explained.
 1b: [✅] Concepts are introduced in a structured, progressive order.
 1c: [✅] All statements are technically correct without conceptual inaccuracies.
-1d: [✅] Relevant examples are provided for complex concepts.
+1d: [✅] Relevant examples/analogies for complex concepts are provided.
 
 2a: [N/A] No code walkthrough.
 2b: [N/A] No code walkthrough.
@@ -17,20 +17,22 @@
 
 4a: [✅] Spoken content follows the slide sequence.
 
-5a: [✅] There are prompts for learners to engage with the content.
-5b: [✅] Rhetorical questions are included to engage learners.
-5c: [✅] Encouragement for questions is present.
+5a: [❌] There are no calls to action or prompts for reflection included.
+5b: [❌] No rhetorical questions are posed to engage learners.
+5c: [✅] Encouragement for questions through comments/forums is implied.
 
-6a: [✅] The session starts with a clear introduction setting context.
-6b: [✅] Clear transitions between sections are used.
+6a: [✅] Clear introduction setting context is provided.
+6b: [✅] Verbal cues for topic shifts are used.
 
-7a: [✅] Motivational language is used throughout the session.
-7b: [✅] Language is inclusive and gender-neutral.
+7a: [✅] Motivational language is used throughout.
+7b: [✅] Language is inclusive of all backgrounds.
 
 8a: [✅] Actual pacing matches mentioned time estimates.
 
 What Went Wrong:
-- N/A
+- Lack of engagement prompts such as calls to action or rhetorical questions.
+- Absence of explicit invitations for feedback or queries.
 
 How to Improve:
-- N/A
+- Incorporate calls to action or prompts for learners to reflect on the material.
+- Include rhetorical questions to stimulate engagement and interaction.

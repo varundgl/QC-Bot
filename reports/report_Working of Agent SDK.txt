@@ -1,0 +1,38 @@
+1a: [✅] All planned topics and subtopics are mentioned and explained.
+1b: [✅] Concepts are introduced in a structured, progressive order.
+1c: [✅] All statements are technically correct without conceptual inaccuracies.
+1d: [✅] Relevant examples are provided for complex concepts.
+
+2a: [N/A] N/A - No code walkthrough
+2b: [N/A] N/A - No code walkthrough
+2c: [N/A] N/A - No code walkthrough
+2d: [N/A] N/A - No code walkthrough
+2e: [N/A] N/A - No code walkthrough
+
+3a: [✅] Speech is coherent and paced appropriately.
+3b: [✅] Minimal use of filler words is observed.
+3c: [✅] Technical terms are pronounced clearly.
+3d: [✅] Language is formal, academic, and respectful.
+3e: [✅] No inappropriate or biased statements are present.
+
+4a: [✅] Spoken content follows the slide sequence.
+
+5a: [❌] There are no calls to action or prompts for reflection included.
+5b: [❌] No rhetorical questions are posed to engage learners.
+5c: [❌] There is no encouragement for questions through comments/forums.
+
+6a: [✅] A clear introduction is provided, setting the context.
+6b: [✅] Verbal cues for topic shifts are used effectively.
+
+7a: [✅] The tone is encouraging and positive.
+7b: [✅] Language is inclusive and gender-neutral.
+
+8a: [✅] Actual pacing matches mentioned time estimates.
+
+What Went Wrong:
+- Lack of engagement prompts for learners.
+- No rhetorical questions or invitations for feedback.
+
+How to Improve:
+- Include calls to action or pauses for reflection to encourage learner interaction.
+- Pose rhetorical questions throughout the presentation to engage the audience.

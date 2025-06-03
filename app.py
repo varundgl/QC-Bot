@@ -10,6 +10,10 @@ import glob
 from dotenv import load_dotenv
 from pathlib import Path
 
+# Fix for Windows event loop
+if sys.platform == "win32":
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+
 # Load environment variables
 load_dotenv()
 
@@ -105,6 +109,13 @@ def main():
             padding: 15px;
             margin: 10px 0;
             border-radius: 0 8px 8px 0;
+        }
+        .error-banner {
+            background-color: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
         }
         </style>
     """, unsafe_allow_html=True)
@@ -203,14 +214,6 @@ def main():
                 with open(notebook_path, "wb") as f:
                     f.write(notebook_file.getbuffer())
             
-            # Initialize progress tracking
-            progress_steps = {
-                "download": 0,
-                "mentor": 0,
-                "transcribe": 0,
-                "report": 0
-            }
-            
             # Start processing
             status_text.markdown("""
                 <div class="step-card">
@@ -229,19 +232,6 @@ def main():
                 # Create a new event loop for async processing
                 loop = asyncio.new_event_loop()
                 asyncio.set_event_loop(loop)
-
-                # Process URL
-                loop.run_until_complete(
-                    st.session_state.main_flow.process_url(box_link)
-                )
-                progress_bar.progress(25)
-            except Exception as e:
-                status_text.error(f"Error downloading videos: {str(e)}")
-                st.session_state.processing = False
-                return
-                # Create a new event loop for async processing
-                loop = asyncio.new_event_loop()
-                asyncio.set_event_loop(loop)
                 
                 # Process URL
                 loop.run_until_complete(
@@ -249,7 +239,12 @@ def main():
                 )
                 progress_bar.progress(25)
             except Exception as e:
-                status_text.error(f"Error downloading videos: {str(e)}")
+                status_text.markdown(f"""
+                    <div class="error-banner">
+                        <h3>❌ Error downloading videos</h3>
+                        <p>{str(e)}</p>
+                    </div>
+                """, unsafe_allow_html=True)
                 st.session_state.processing = False
                 return
             
@@ -264,7 +259,12 @@ def main():
                 st.session_state.main_flow.process_mentor_materials(mentor_dir)
                 progress_bar.progress(50)
             except Exception as e:
-                status_text.error(f"Error processing mentor materials: {str(e)}")
+                status_text.markdown(f"""
+                    <div class="error-banner">
+                        <h3>❌ Error processing mentor materials</h3>
+                        <p>{str(e)}</p>
+                    </div>
+                """, unsafe_allow_html=True)
                 st.session_state.processing = False
                 return
             
@@ -280,7 +280,12 @@ def main():
                 # during the main flow processing
                 progress_bar.progress(75)
             except Exception as e:
-                status_text.error(f"Error generating transcripts: {str(e)}")
+                status_text.markdown(f"""
+                    <div class="error-banner">
+                        <h3>❌ Error generating transcripts</h3>
+                        <p>{str(e)}</p>
+                    </div>
+                """, unsafe_allow_html=True)
                 st.session_state.processing = False
                 return
             
@@ -295,7 +300,12 @@ def main():
                 st.session_state.main_flow.generate_quality_reports()
                 progress_bar.progress(100)
             except Exception as e:
-                status_text.error(f"Error generating reports: {str(e)}")
+                status_text.markdown(f"""
+                    <div class="error-banner">
+                        <h3>❌ Error generating reports</h3>
+                        <p>{str(e)}</p>
+                    </div>
+                """, unsafe_allow_html=True)
                 st.session_state.processing = False
                 return
             

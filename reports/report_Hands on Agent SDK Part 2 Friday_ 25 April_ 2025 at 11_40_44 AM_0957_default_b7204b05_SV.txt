@@ -17,9 +17,9 @@
 
 4a: [✅] Spoken content follows the slide sequence.
 
-5a: [✅] Prompts for learner engagement are included.
-5b: [✅] Rhetorical questions are present to engage learners.
-5c: [✅] Encouragement for questions through comments/forums is included.
+5a: [✅] Prompts for learners to try things themselves are included.
+5b: [✅] Rhetorical questions are included to engage learners.
+5c: [✅] Encouragement for questions through comments/forums is present.
 
 6a: [✅] Clear introduction setting context is provided.
 6b: [✅] Verbal cues for topic shifts are used effectively.
