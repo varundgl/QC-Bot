@@ -1,7 +1,7 @@
 1a: [✅] All planned topics and subtopics are mentioned and explained.
 1b: [✅] Concepts are introduced in a structured, progressive order.
 1c: [✅] All statements are technically correct without conceptual inaccuracies.
-1d: [✅] Relevant examples/analogies for complex concepts are provided.
+1d: [✅] Relevant examples are provided for complex concepts.
 
 2a: [N/A] No code walkthrough.
 2b: [N/A] No code walkthrough.
@@ -17,22 +17,24 @@
 
 4a: [✅] Spoken content follows the slide sequence.
 
-5a: [❌] There are no calls to action or prompts for reflection included.
-5b: [❌] No rhetorical questions are posed to engage learners.
-5c: [✅] Encouragement for questions through comments/forums is implied.
+5a: [❌] There are no prompts for learners to try things themselves.
+5b: [❌] No rhetorical questions are included to engage learners.
+5c: [❌] There is no encouragement for questions through comments/forums.
 
-6a: [✅] Clear introduction setting context is provided.
-6b: [✅] Verbal cues for topic shifts are used.
+6a: [✅] The session starts with a clear introduction setting context.
+6b: [✅] Clear transitions between sections are used.
 
-7a: [✅] Motivational language is used throughout.
-7b: [✅] Language is inclusive of all backgrounds.
+7a: [✅] The tone is encouraging and positive.
+7b: [✅] Language is inclusive and gender-neutral.
 
 8a: [✅] Actual pacing matches mentioned time estimates.
 
 What Went Wrong:
-- Lack of engagement prompts such as calls to action or rhetorical questions.
-- Absence of explicit invitations for feedback or queries.
+- Lack of engagement prompts for learners to interact or reflect.
+- Absence of rhetorical questions to stimulate thought.
+- No invitation for feedback or questions from the audience.
 
 How to Improve:
-- Incorporate calls to action or prompts for learners to reflect on the material.
-- Include rhetorical questions to stimulate engagement and interaction.
+- Include calls to action or prompts for learners to try out concepts.
+- Integrate rhetorical questions throughout the presentation to engage learners.
+- Encourage audience interaction by inviting questions or comments.

@@ -1,7 +1,7 @@
-1a: [✅] All planned topics and subtopics regarding the benefits and challenges of agent SDK are mentioned and explained.
-1b: [✅] Concepts are introduced in a structured and progressive order.
+1a: [✅] All planned topics and subtopics are mentioned and explained.
+1b: [✅] Concepts are introduced in a structured, progressive order.
 1c: [✅] All statements are technically correct without conceptual inaccuracies.
-1d: [✅] Relevant examples are provided to clarify complex concepts.
+1d: [✅] Relevant examples are provided for complex concepts.
 
 2a: [N/A] N/A - No code walkthrough
 2b: [N/A] N/A - No code walkthrough
@@ -10,29 +10,31 @@
 2e: [N/A] N/A - No code walkthrough
 
 3a: [✅] Speech is coherent and paced appropriately.
-3b: [✅] There is a minimal use of filler words.
+3b: [✅] There are minimal filler words used.
 3c: [✅] Technical terms are pronounced clearly.
 3d: [✅] Language is formal, academic, and respectful.
 3e: [✅] No inappropriate or biased statements are present.
 
-4a: [✅] Spoken content follows the slide sequence logically.
+4a: [✅] Spoken content follows the slide sequence.
 
 5a: [❌] There are no calls to action or prompts for reflection included.
 5b: [❌] No rhetorical questions are posed to engage learners.
-5c: [❌] There is no encouragement for questions or feedback from learners.
+5c: [❌] There is no encouragement for questions through comments/forums.
 
-6a: [✅] The session starts with a clear introduction setting the context.
+6a: [✅] The session starts with a clear introduction setting context.
 6b: [✅] Clear transitions between sections are used.
 
-7a: [✅] The tone is encouraging and positive throughout the session.
+7a: [✅] The tone is encouraging and positive.
 7b: [✅] Language is inclusive and gender-neutral.
 
-8a: [✅] The pacing matches the mentioned time estimates.
+8a: [✅] Actual pacing matches mentioned time estimates.
 
 What Went Wrong:
-- Lack of engagement prompts for learners, such as calls to action or questions.
-- No encouragement for feedback or queries from the audience.
+- Lack of engagement prompts for learners.
+- No rhetorical questions to stimulate thinking.
+- Absence of encouragement for feedback or queries.
 
 How to Improve:
-- Include specific calls to action or reflection prompts to engage learners actively.
-- Encourage questions and feedback from learners to foster interaction and clarify doubts.
+- Include calls to action or pauses for reflection throughout the presentation.
+- Pose rhetorical questions to engage learners and encourage critical thinking.
+- Invite feedback or questions from the audience to foster interaction.

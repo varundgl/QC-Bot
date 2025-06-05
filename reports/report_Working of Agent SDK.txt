@@ -19,20 +19,20 @@
 
 5a: [❌] There are no calls to action or prompts for reflection included.
 5b: [❌] No rhetorical questions are posed to engage learners.
-5c: [❌] There is no encouragement for questions through comments/forums.
+5c: [❌] There is no encouragement for feedback or queries.
 
-6a: [✅] A clear introduction is provided, setting the context.
-6b: [✅] Verbal cues for topic shifts are used effectively.
+6a: [✅] The session starts with a clear introduction setting context.
+6b: [✅] Clear transitions between sections are used.
 
-7a: [✅] The tone is encouraging and positive.
+7a: [✅] An encouraging and positive tone is maintained.
 7b: [✅] Language is inclusive and gender-neutral.
 
 8a: [✅] Actual pacing matches mentioned time estimates.
 
 What Went Wrong:
-- Lack of engagement prompts for learners.
-- No rhetorical questions or invitations for feedback.
+- Lack of engagement prompts such as calls to action or questions for learners.
+- No encouragement for feedback or queries from the audience.
 
 How to Improve:
-- Include calls to action or pauses for reflection to encourage learner interaction.
-- Pose rhetorical questions throughout the presentation to engage the audience.
+- Include calls to action or prompts for learners to try coding examples themselves.
+- Pose rhetorical questions throughout the presentation to engage the audience and encourage interaction.

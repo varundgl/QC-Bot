@@ -4,13 +4,13 @@
 1d: [✅] Relevant examples and analogies are provided for complex concepts.
 
 2a: [✅] Code demonstrations are clearly explained through narration.
-2b: [✅] Variables, functions, and logic blocks are described.
+2b: [✅] Variables, functions, and logic blocks are described adequately.
 2c: [✅] All libraries/frameworks used are explicitly named and explained.
 2d: [✅] Expected code outputs are described and discussed.
 2e: [✅] Hands-on activities are taught at a followable pace.
 
 3a: [✅] Speech is coherent and paced appropriately.
-3b: [✅] Minimal use of filler words is observed.
+3b: [✅] Use of filler words is minimized.
 3c: [✅] Technical terms are pronounced clearly.
 3d: [✅] Language is formal, academic, and respectful.
 3e: [✅] No inappropriate or biased statements are present.
@@ -18,13 +18,13 @@
 4a: [✅] Spoken content follows the slide sequence.
 
 5a: [✅] Prompts for learner engagement are included.
-5b: [✅] Rhetorical questions are present to engage learners.
-5c: [✅] Encouragement for questions through comments/forums is included.
+5b: [✅] Rhetorical questions are used to engage learners.
+5c: [✅] Encouragement for questions through comments/forums is present.
 
-6a: [✅] A clear introduction setting context is provided.
+6a: [✅] Clear introduction setting context is provided.
 6b: [✅] Verbal cues for topic shifts are used effectively.
 
-7a: [✅] Motivational language is used throughout the session.
+7a: [✅] Motivational language is used throughout.
 7b: [✅] Language is inclusive and gender-neutral.
 
 8a: [✅] Actual pacing matches mentioned time estimates.
@@ -33,4 +33,4 @@ What Went Wrong:
 - No significant issues were identified.
 
 How to Improve:
-- N/A - No improvements needed.
+- N/A as there are no issues to address.

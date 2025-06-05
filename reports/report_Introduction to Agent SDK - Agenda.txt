@@ -10,29 +10,31 @@
 2e: [N/A] No code walkthrough.
 
 3a: [✅] Speech is coherent and paced appropriately.
-3b: [✅] There are no frequent fillers present.
+3b: [✅] No frequent fillers are present.
 3c: [✅] Technical terms are pronounced clearly.
 3d: [✅] Language is formal, academic, and respectful.
 3e: [✅] No inappropriate or biased statements are present.
 
 4a: [✅] Spoken content follows the slide sequence.
 
-5a: [❌] There are no calls to action or prompts for reflection included.
+5a: [❌] No calls to action or prompts for reflection are included.
 5b: [❌] No rhetorical questions are included to engage learners.
-5c: [❌] There is no encouragement for questions through comments/forums.
+5c: [❌] No encouragement for questions through comments/forums.
 
-6a: [✅] The session starts with a clear introduction setting context.
-6b: [✅] Verbal cues for topic shifts are present.
+6a: [✅] Clear introduction setting context is provided.
+6b: [✅] Verbal cues for topic shifts are used.
 
-7a: [✅] The tone is encouraging and positive.
-7b: [✅] Language is inclusive and gender-neutral.
+7a: [✅] Motivational language is used.
+7b: [✅] Language is inclusive of all backgrounds.
 
 8a: [✅] Actual pacing matches mentioned time estimates.
 
 What Went Wrong:
 - Lack of examples or analogies to clarify complex concepts.
-- Absence of engagement prompts, such as calls to action or questions for learners.
+- Absence of engagement prompts for learners.
+- No encouragement for questions or feedback from the audience.
 
 How to Improve:
-- Incorporate relevant examples or analogies to help explain complex concepts.
-- Include engagement prompts like rhetorical questions and invitations for feedback to enhance learner interaction.
+- Include relevant examples or analogies to help explain complex concepts.
+- Add calls to action or reflection prompts to engage learners more effectively.
+- Encourage questions and feedback through comments or forums to foster interaction.

@@ -24,8 +24,8 @@
 6a: [✅] Clear introduction setting context is provided.
 6b: [✅] Verbal cues for topic shifts are used effectively.
 
-7a: [✅] Motivational language is used throughout the session.
-7b: [✅] Language is inclusive of all backgrounds.
+7a: [✅] Motivational language is used throughout.
+7b: [✅] Language is inclusive and gender-neutral.
 
 8a: [✅] Actual pacing matches mentioned time estimates.
 

@@ -11,7 +11,7 @@ load_dotenv()
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-    stream=open(sys.stdout.fileno(), mode='w', encoding='utf-8', buffering=1)
+    stream=sys.stdout
 )
 
 async def main():

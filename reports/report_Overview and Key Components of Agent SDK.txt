@@ -21,7 +21,7 @@
 5b: [❌] No rhetorical questions are posed to engage learners.
 5c: [❌] There is no invitation for feedback or queries.
 
-6a: [✅] The introduction sets the context clearly.
+6a: [✅] The session starts with a clear introduction setting context.
 6b: [✅] Clear transitions between sections are used.
 
 7a: [✅] The tone is encouraging and positive.
@@ -30,11 +30,9 @@
 8a: [✅] Actual pacing matches mentioned time estimates.
 
 What Went Wrong:
-- Lack of engagement prompts such as calls to action or reflection.
-- Absence of rhetorical questions to stimulate learner interaction.
-- No invitation for feedback or queries from learners.
+- Lack of engagement prompts for learners.
+- No rhetorical questions or invitations for feedback.
 
 How to Improve:
-- Include specific calls to action or prompts for learners to reflect on the content.
-- Integrate rhetorical questions throughout the presentation to enhance engagement.
-- Encourage learners to ask questions or provide feedback at the end of the session.
+- Include calls to action or prompts for learners to reflect on the content.
+- Pose rhetorical questions throughout the presentation to engage the audience and encourage interaction.

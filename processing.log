@@ -244,3 +244,51 @@ task: <Task pending name='Task-6' coro=<<async_generator_athrow without __name__
 2025-06-03 15:38:59,700 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
 2025-06-03 15:39:01,704 - root - INFO - 
 ✅ Processing completed!
+2025-06-05 14:39:05,806 - root - INFO - Starting video processing...
+2025-06-05 14:39:14,545 - src.preprocessing.download_manager - INFO - 🌐 Navigating to URL: https://greatlearningcontent.app.box.com/s/i6zeycc9pch4n0x27bv2rhum23rh1i8q
+2025-06-05 14:39:18,882 - src.preprocessing.download_manager - INFO - 🔍 Waiting for file list to load...
+2025-06-05 14:39:21,006 - src.preprocessing.download_manager - INFO - 📦 Found 6 items to process.
+2025-06-05 14:39:22,691 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Use case of Agent SDK.mp4
+2025-06-05 14:39:24,300 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Introduction to Agent SDK - Agenda.mp4
+2025-06-05 14:39:25,931 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Introduction to Agent SDK - Summary.mp4
+2025-06-05 14:39:27,536 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Benefits and Challenges of Agent SDK.mp4
+2025-06-05 14:39:29,143 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Overview and Key Components of Agent SDK.mp4
+2025-06-05 14:39:30,755 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Working of Agent SDK.mp4
+2025-06-05 14:39:30,968 - root - INFO - Processing mentor materials...
+2025-06-05 14:39:30,969 - root - INFO - Transcript already exists for Agent SDK_V1_24-04-25, skipping slide file.
+2025-06-05 14:39:30,969 - root - INFO - Generating quality reports...
+2025-06-05 14:39:35,988 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:39:42,826 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:39:48,368 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:39:54,453 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:40:00,793 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:40:07,737 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:40:13,039 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:40:19,493 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:40:25,872 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:40:28,019 - root - INFO - 
+✅ Processing completed!
+2025-06-05 14:42:00,827 - root - INFO - Starting video processing...
+2025-06-05 14:42:04,599 - src.preprocessing.download_manager - INFO - 🌐 Navigating to URL: https://greatlearningcontent.app.box.com/s/i6zeycc9pch4n0x27bv2rhum23rh1i8q
+2025-06-05 14:42:06,286 - src.preprocessing.download_manager - INFO - 🔍 Waiting for file list to load...
+2025-06-05 14:42:07,983 - src.preprocessing.download_manager - INFO - 📦 Found 6 items to process.
+2025-06-05 14:42:09,625 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Use case of Agent SDK.mp4
+2025-06-05 14:42:11,233 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Introduction to Agent SDK - Agenda.mp4
+2025-06-05 14:42:12,844 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Introduction to Agent SDK - Summary.mp4
+2025-06-05 14:42:14,470 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Benefits and Challenges of Agent SDK.mp4
+2025-06-05 14:42:16,074 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Overview and Key Components of Agent SDK.mp4
+2025-06-05 14:42:17,691 - src.preprocessing.download_manager - INFO - ⏩ Skipping: Working of Agent SDK.mp4
+2025-06-05 14:42:17,863 - root - INFO - Processing mentor materials...
+2025-06-05 14:42:17,865 - root - INFO - Transcript already exists for Agent SDK_V1_24-04-25, skipping slide file.
+2025-06-05 14:42:17,866 - root - INFO - Generating quality reports...
+2025-06-05 14:42:23,417 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:42:29,653 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:42:36,035 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:42:41,604 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:42:49,054 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:42:54,457 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:43:00,036 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:43:05,522 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:43:11,683 - httpx - INFO - HTTP Request: POST https://tst123451307193883.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-06-05 14:43:13,690 - root - INFO - 
+✅ Processing completed!
