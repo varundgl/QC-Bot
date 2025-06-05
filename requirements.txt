@@ -6,3 +6,4 @@ python-pptx
 nbformat
 pandas
 python-dotenv
+streamlit
